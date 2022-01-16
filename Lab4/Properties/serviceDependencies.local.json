@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "connectionId": "ConnectionStrings:K_DLab4Context",
+      "type": "mssql.local"
+    }
+  }
+}
